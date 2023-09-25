@@ -1,0 +1,10 @@
+C:\Users\Trinyte\source\repos\Coin_Flipping_Sim\Coin_Flipping_Sim\bin\Debug\Coin_Flipping_Sim.exe.config
+C:\Users\Trinyte\source\repos\Coin_Flipping_Sim\Coin_Flipping_Sim\bin\Debug\Coin_Flipping_Sim.exe
+C:\Users\Trinyte\source\repos\Coin_Flipping_Sim\Coin_Flipping_Sim\bin\Debug\Coin_Flipping_Sim.pdb
+C:\Users\Trinyte\source\repos\Coin_Flipping_Sim\Coin_Flipping_Sim\obj\Debug\Coin_Flipping_Sim.csproj.AssemblyReference.cache
+C:\Users\Trinyte\source\repos\Coin_Flipping_Sim\Coin_Flipping_Sim\obj\Debug\Coin_Flipping_Sim.Form1.resources
+C:\Users\Trinyte\source\repos\Coin_Flipping_Sim\Coin_Flipping_Sim\obj\Debug\Coin_Flipping_Sim.Properties.Resources.resources
+C:\Users\Trinyte\source\repos\Coin_Flipping_Sim\Coin_Flipping_Sim\obj\Debug\Coin_Flipping_Sim.csproj.GenerateResource.cache
+C:\Users\Trinyte\source\repos\Coin_Flipping_Sim\Coin_Flipping_Sim\obj\Debug\Coin_Flipping_Sim.csproj.CoreCompileInputs.cache
+C:\Users\Trinyte\source\repos\Coin_Flipping_Sim\Coin_Flipping_Sim\obj\Debug\Coin_Flipping_Sim.exe
+C:\Users\Trinyte\source\repos\Coin_Flipping_Sim\Coin_Flipping_Sim\obj\Debug\Coin_Flipping_Sim.pdb
